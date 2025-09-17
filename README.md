@@ -1,1 +1,3 @@
-#leejeongil
+## Lee Jeong Il
+---
+안녕하세요 저는 ~~~ 를 목표로 하는 이정일입니다.
